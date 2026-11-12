@@ -1,0 +1,17 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Datos crudos grandes (supera el límite de 100 MB de GitHub)
+Energia/data/facturacion_energia.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
