@@ -11,6 +11,7 @@ __pycache__/
 
 # Datos crudos grandes (supera el límite de 100 MB de GitHub)
 Energia/data/facturacion_energia.csv
+facturacion_energia_residencial_2023_2024.csv
 
 # Sistema
 .DS_Store
